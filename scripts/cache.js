@@ -33,5 +33,5 @@ try {
 
 fs.writeFile('cache/data.js', postData(), function(err) {
     if(err) return console.log(err)
-    console.log('Posts cached...')
+    console.log('Posts Cached...')
 })
