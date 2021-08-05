@@ -11,7 +11,7 @@ export default function SearchResults({ results }) {
           <Post key={index} post={result} compact={true} />
         ))}
       </div>
-    </div>
+    </div> 
   )
 }
 
