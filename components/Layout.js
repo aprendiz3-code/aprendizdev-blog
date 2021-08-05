@@ -22,5 +22,5 @@ export default function Layout({title, keywords, description, children }) {
 Layout.defaultProps = {
     title: 'Welcome to AprendizDev',
     keywords: 'development, conding, programming', 
-    description: 'The best info and news in development',
+    description: 'The best info and news in development', 
 }
