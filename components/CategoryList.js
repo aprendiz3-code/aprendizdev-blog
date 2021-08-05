@@ -11,7 +11,7 @@ export default function CategoryList({categories}) {
                     <Link key={index} href={`/blog/category/${category.toLowerCase()}`}>
                         <li className="p-4 cursor-pointer hover:bg-gray-50">
                             {category}
-                        </li> 
+                        </li>  
                     </Link>
                 ))}
             </ul>
