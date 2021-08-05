@@ -33,7 +33,7 @@ export default function Pagination({ currentPage, numPages }) {
             </li>
           </Link>
         )}
-        </ul>
+        </ul> 
     </div>
     )
 }
