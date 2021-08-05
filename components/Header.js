@@ -1,7 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
 
-
 export default function Header() {
     return (
         <header className='bg-gray-900 text-gray-100 shadow w-full'>
