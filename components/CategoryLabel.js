@@ -4,7 +4,7 @@ export default function CategoryLabel({children}) {
     const colorKey = {
         JavaScript: 'yellow',
         CSS: 'blue',
-        Python: 'green',
+        Python: 'green', 
         PHP: 'purple',
         Ruby: 'red'
     }
